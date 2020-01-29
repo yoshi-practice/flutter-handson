@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575220779066",
+    "firebase_url": "https://flutter-handson.firebaseio.com",
+    "project_id": "flutter-handson",
+    "storage_bucket": "flutter-handson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575220779066:android:ab946bea3d5ddcdd438d03",
+        "android_client_info": {
+          "package_name": "com.example.dictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575220779066-qaa4prtp6t0iebshm7irusd3s43guna1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVg6ufRKCdvO41am3Qd_1W4fGLf9TKmpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575220779066-qaa4prtp6t0iebshm7irusd3s43guna1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
